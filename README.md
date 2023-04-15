@@ -3,5 +3,6 @@ It is a site  developed using HTML, CSS and js for logic implementation, where v
 
 It is hosted on : https://ashishmaurya108.github.io/Drum-Kit-Master/
 
-It looks like this :![image](https://user-images.githubusercontent.com/113431853/231681472-5b7fd0e2-346e-430a-8b35-fc03d2c4b87b.png)
+It looks like this :![image](https://user-images.githubusercontent.com/129946178/232206296-24da7849-ec0f-463c-8fd8-2a1f9c4afd68.png)
+
 
